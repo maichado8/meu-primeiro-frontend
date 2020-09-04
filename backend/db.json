@@ -1,0 +1,49 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Camiseta ALWAYS(BRANCA) DROP1",
+        "price": 65.00
+    },
+    {
+        "id": 2,
+        "name": "Camiseta ALWAYS(PRETA) DROP1",
+        "price": 65.00
+    },
+    {
+        "id": 3,
+        "name": "Camiseta ALWAYS(BRANCA) DROP2",
+        "price": 65.00
+    },
+    {
+        "id": 4,
+        "name": "Camiseta ALWAYS(PRETA) DROP3",
+        "price": 65.00
+    },
+    {
+        "id": 5,
+        "name": "Camiseta ALWAYS(PRETA) DROP4",
+        "price": 65.00
+    },
+    {
+        "id": 6,
+        "name": "Mascara ALWAYS(PRETA)",
+        "price": 15.00
+    },
+    {
+        "id": 7,
+        "name": "Mascara ALWAYS(BRANCA)",
+        "price": 15.00
+    },
+    {
+        "id": 8,
+        "name": "Bermuda-Verão ALWAYS(PRETA)",
+        "price": 80.00
+    },
+    {
+        "id": 9,
+        "name": "Bermuda-Verão ALWAYS(ROSA BB)",
+        "price": 80.00
+    }
+
+]
+}
